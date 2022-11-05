@@ -1,0 +1,13 @@
+{
+  "name": "problem4",
+  "version": "1.0.0",
+  "main": "retrieve-holders.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./retrieve-holders.ts"
+  },
+  "devDependencies": {
+    "ethers": "^5.7.2",
+    "typescript": "^4.8.4"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["es2015", "dom"],
+    "esModuleInterop": true,
+    "moduleResolution": "node"
+  },
+  "include": ["/**/*.ts"],
+  "exclude": ["node_modules"]
+}
